@@ -1,0 +1,5 @@
+telegram-bot/
+│
+├── bot.py                  ← Sizning asosiy kodingiz
+├── requirements.txt        ← Kerakli kutubxonalar
+└── Procfile                ← Render uchun ishga tushirish buyrug‘i
